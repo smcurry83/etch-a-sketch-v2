@@ -1,0 +1,10 @@
+.board {
+  width: 500px;
+  height: 500px;
+  display: grid;
+  border: solid 1px black;
+}
+
+.board>div {
+  border: solid 0.1px lightgray;
+}
